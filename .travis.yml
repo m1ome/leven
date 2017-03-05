@@ -1,0 +1,12 @@
+language: go
+
+go:
+  - 1.6.x
+  - 1.7.x
+  - 1.8.x
+  - master
+
+install:
+  - go get github.com/agext/levenshtein
+  - go get github.com/agnivade/levenshtein
+  - go get github.com/arbovm/levenshtein

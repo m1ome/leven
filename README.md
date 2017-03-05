@@ -1,4 +1,7 @@
 # Leven - Fast implementation of Levenstein distance written in Go
+[![GoDoc](https://godoc.org/github.com/m1ome/leven?status.svg)](https://godoc.org/github.com/m1ome/leven)
+[![Build Status](https://travis-ci.org/m1ome/leven.svg?branch=master)](https://travis-ci.org/m1ome/leven)
+
 This implementation have equal or fastest implementation when using:
 - Prefixed words
 - Postfixed words
